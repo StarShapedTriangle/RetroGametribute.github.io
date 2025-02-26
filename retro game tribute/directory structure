@@ -1,0 +1,10 @@
+my-retro-video-game-tribute/
+|-- index.html
+|-- characters.html
+|-- history.html
+|-- styles/
+|   |-- style.css
+|-- scripts/
+|   |-- script.js
+|-- images/
+    |-- (your image files)
